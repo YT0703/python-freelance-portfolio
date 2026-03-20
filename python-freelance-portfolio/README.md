@@ -16,7 +16,14 @@
 
 ## Books Scraping Tool（NEW）
 
-Books to Scrape（練習用サイト）から書籍データを取得し、CSVに保存するツールです。
+Books to Scrapeから書籍データを取得し、CSVに保存するツールです。
+
+## ■ 実行結果（サンプル）
+
+※以下は出力CSVの一部です
+
+![sukureipig01](https://github.com/user-attachments/assets/42c4c308-3431-4b82-8f54-241ef31d0423)
+
 
 ### ■ 機能
 - ページネーション対応（複数ページ一括取得）
